@@ -15,7 +15,7 @@ pipeline {
         KUBECONFIG_CREDENTIAL_ID = 'kubeconfig'
         REGISTRY = '172.16.176.31'
         DOCKERHUB_NAMESPACE = 'yoyosys'
-        GITHUB_ACCOUNT = 'kubesphere'
+        GITHUB_ACCOUNT = 'yuanlin-yoyo-worker'
         APP_NAME = 'devops-java-sample'
     }
 
